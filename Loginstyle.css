@@ -1,0 +1,22 @@
+@charset "UTF-8";
+*{
+	padding:0;
+	margin:0;
+}
+.container-fluid{
+	width:30%;
+	margin-top:10%;
+	background-color:white;
+	border-radius:20px;
+	padding:30px;
+}
+.btn-primary
+{	
+	width:100%;
+	border:none;
+	border-radius:50px;
+	
+}
+body{
+  background-image: url('Login.jpeg');
+}
